@@ -17,6 +17,8 @@ app.listen(3000) //Se abre un servidor en el puerto "3000"
 
 console.log('Servidor levantado en el lugar: http://localhost:3000' );
 
+
+
 //nodemon sirve para que el servidor se reinicie automáticamente cada vez que se haga un cambio en el código
 
 

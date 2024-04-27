@@ -1,0 +1,6 @@
+/* Archivo de estilos principal */
+/* Estilos personalizados */
+@import 'tailwindcss/base'; /* Importa los estilos base de Tailwind CSS */
+@import 'tailwindcss/components';  /* Importa los estilos de los componentes de Tailwind CSS */
+@import 'tailwindcss/utilities'; /* Importa los estilos de utilidades de Tailwind CSS */  
+
